@@ -1,2 +1,2 @@
 # Hello-golangproject
-Bluewdev's
+This is my first golang project!
